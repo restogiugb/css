@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:NumCommande;datatype:string,name:NumClient;datatype:string,name:NumPlat;datatype:string,name:Quantité;datatype:int,name:Date;datatype:datetime" />
+</info>

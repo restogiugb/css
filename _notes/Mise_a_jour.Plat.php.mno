@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:NumPlat;datatype:string,name:Nom;datatype:string,name:Prix;datatype:int,name:Categorie;datatype:string" />
+</info>
